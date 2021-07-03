@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Aryaved.MavenDemo.AppiumTest"/>
+      <class name="Aryaved.MavenDemo.SeleniumTest"/>
+	  <class name="Aryaved.MavenDemo.RestAssuredTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

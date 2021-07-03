@@ -1,0 +1,9 @@
+package Files;
+
+public class AddplaceCode {
+	
+	public static String AddPlace() {
+		return 
+	}
+
+}

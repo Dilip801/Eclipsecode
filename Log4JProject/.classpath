@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="E:/mission automation/Log4J/apache-log4j-2.14.0-bin/log4j-api-2.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/mission automation/Log4J/apache-log4j-2.14.0-bin/log4j-core-2.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/mission automation/Selenium/selenium-server-standalone-3.141.59.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://www.selenium.dev/selenium/docs/api/java/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

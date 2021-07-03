@@ -1,0 +1,50 @@
+import java.net.MalformedURLException;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+import io.appium.java_client.TouchAction;
+import static io.appium.java_client.touch.TapOptions.tapOptions;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+import io.appium.java_client.touch.offset.ElementOption;
+
+
+
+public class RegistrationandLogin extends BaseCapabilities{
+
+	public static void main(String[] args) throws MalformedURLException, InterruptedException {
+		// TODO Auto-generated method stub
+		
+		
+		AndroidDriver<AndroidElement> driver = Capabilities();
+		Thread.sleep(2000);
+		driver.findElementById("com.coalshastralive.android.app:id/creataccountpage").click();
+		
+//		Thread.sleep(2000);
+//		driver.findElementById("com.coalshastralive.android.app:id/nameet").sendKeys("Dilip");
+//		driver.findElementById("com.coalshastralive.android.app:id/registerLastNameEdt").sendKeys("Kumar");
+//		driver.findElementById("com.coalshastralive.android.app:id/registerLastNameEdt").sendKeys("Kumar");
+//		
+//		driver.findElementByXPath("").click();
+//		driver.findElementByXPath("//android.widget.TextView[@text='Create Account']").click();
+//		driver.findElementByXPath("//android.widget.Button[@resource-id='com.coalshastralive.android.app:id/loginpage']").click();
+//		driver.findElementByXPath("//android.widget.LinearLayout[@resource-id='com.coalshastralive.android.app:id/creataccountpage']/com.coalshastralive.android.app:id/createtext").click();
+//		driver.findElement(By.xpath("//android.widget.TextView[contains(@resource-id,'mas_account_verification_country')]")).click(); //Open drop down country menu
+//		driver.findElement(By.name("India")).click(); //Select one country
+//		driver.findElement(By.xpath("//android.widget.EditText[contains(@resource-id, 'et_account_verification_phone_number')]")).sendKeys("9999999999"); //Enter Mobile No
+//		driver.hideKeyboard(); //Hide keyboard
+//		driver.findElement(By.name("Enter your name")).sendKeys("Parul"); //Enter name
+//		driver.hideKeyboard(); //Hide keyboard
+//		driver.findElement(By.className("android.widget.Button")).click(); //Click on submit button
+//		driver.findElement(By.className("android.widget.EditText")).sendKeys("123456"); //Enter password in next screen
+//		driver.hideKeyboard(); //Hide Keyboard, since keyboard hides the Submit button in this case
+//		driver.findElement(By.xpath("//android.widget.Button[@index='1']")).click(); //Click on submit button
+	}
+
+
+
+
+
+}

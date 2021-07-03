@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2020-12-28T08:54:28Z" finished-at="2020-12-28T08:54:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2020-12-28T08:54:28Z" finished-at="2020-12-28T08:54:28Z">
+      <class name="Aryaved.MavenDemo.SeleniumTest">
+        <test-method status="PASS" signature="Automation()[pri:0, instance:Aryaved.MavenDemo.SeleniumTest@2cbb3d47]" name="Automation" duration-ms="1" started-at="2020-12-28T14:24:28Z" finished-at="2020-12-28T14:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Automation -->
+        <test-method status="PASS" signature="Selenium()[pri:0, instance:Aryaved.MavenDemo.SeleniumTest@2cbb3d47]" name="Selenium" duration-ms="1" started-at="2020-12-28T14:24:28Z" finished-at="2020-12-28T14:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selenium -->
+      </class> <!-- Aryaved.MavenDemo.SeleniumTest -->
+      <class name="Aryaved.MavenDemo.AppiumTest">
+        <test-method status="PASS" signature="Appium()[pri:0, instance:Aryaved.MavenDemo.AppiumTest@1df82230]" name="Appium" duration-ms="9" started-at="2020-12-28T14:24:28Z" finished-at="2020-12-28T14:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appium -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Aryaved.MavenDemo.AppiumTest@1df82230]" name="MobileTest" duration-ms="1" started-at="2020-12-28T14:24:28Z" finished-at="2020-12-28T14:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+      </class> <!-- Aryaved.MavenDemo.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

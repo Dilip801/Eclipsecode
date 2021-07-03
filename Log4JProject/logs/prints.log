@@ -1,0 +1,7 @@
+12:01:19.173 [main] DEBUG alpha.DemoTestLogging - Now hitting Amazon server
+12:01:23.554 [main] INFO  alpha.DemoTestLogging - Landed on amazon home page
+12:01:30.552 [main] DEBUG alpha.DemoTestLogging - Getting the frames count
+12:01:30.578 [main] INFO  alpha.DemoTestLogging - Frames count retreived
+12:01:30.598 [main] INFO  alpha.DemoTestLogging - Successfully switched to frame
+12:01:30.598 [main] DEBUG alpha.DemoTestLogging - Identifying Draggable objects
+12:01:30.943 [main] INFO  alpha.DemoTestLogging - Drag and drop success

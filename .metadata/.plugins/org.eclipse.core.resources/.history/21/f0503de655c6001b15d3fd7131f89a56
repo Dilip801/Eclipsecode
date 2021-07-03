@@ -1,0 +1,14 @@
+package RestAssuredAPI;
+
+public class AddAddressAPIcall {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//given - all input details
+		//when - Submit the API
+		//Then - Validate the Response
+
+	}
+
+}

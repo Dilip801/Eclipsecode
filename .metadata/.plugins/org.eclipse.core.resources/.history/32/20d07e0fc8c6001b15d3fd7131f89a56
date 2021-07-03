@@ -1,0 +1,17 @@
+package RestAssuredAPI;
+
+import org.testng.annotations.Test;
+
+public class SumValidation {
+	//Verify if Sum of all Course prices matches with Purchase Amount
+	@Test
+	public void sumofCourses()
+	{
+		
+	}
+		
+		
+
+
+
+}

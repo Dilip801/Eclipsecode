@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value=" &lt;RollingFile name=&quot;File&quot; fileName=&quot;${basePath}/prints.log&quot; filePattern=&quot;${basePath}/prints-%d{yyyy-MM-dd}.log&quot;&gt;" key="selection"/>
+		<list key="findhistory">
+			<item value=" &lt;RollingFile name=&quot;File&quot; fileName=&quot;${basePath}/prints.log&quot; filePattern=&quot;${basePath}/prints-%d{yyyy-MM-dd}.log&quot;&gt;"/>
+		</list>
+	</section>
+</section>
